@@ -34,7 +34,7 @@ And control the brightness level from 0 to 10 range.
 - Camera and Flashlight feature implementation
 - Coroutine for background counter
 - Android Permissions handling
-- Shared Preference
-- Screen brightness
+- Shared Preference(not now in fut)
+- Screen brightness(not now in fut)
 
 
