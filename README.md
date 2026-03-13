@@ -1,4 +1,4 @@
-# FlashLightApp
+# Emergncy_FlashLightApp
 
 It is easy to use flashlight app using a shake-to-wake device, SOS call and flashlight feature.
 
